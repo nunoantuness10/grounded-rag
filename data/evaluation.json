@@ -1,0 +1,6 @@
+[
+  {"question": "How many vacation days are available?", "document_id": "leave"},
+  {"question": "Can I buy a monitor when working remotely?", "document_id": "remote"},
+  {"question": "What is the annual training allowance?", "document_id": "learning"}
+]
+

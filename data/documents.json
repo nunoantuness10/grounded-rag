@@ -1,0 +1,6 @@
+[
+  {"id": "leave", "source": "employee-handbook.md", "text": "Full-time employees receive 25 paid vacation days per calendar year. Requests longer than five consecutive days require manager approval."},
+  {"id": "remote", "source": "remote-work.md", "text": "Remote employees receive a 500 euro equipment budget when they join. The budget can cover a monitor, keyboard, or ergonomic chair."},
+  {"id": "learning", "source": "benefits.md", "text": "Every employee has an annual learning budget of 1,200 euros for courses, books, and conferences."}
+]
+
