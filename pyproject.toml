@@ -9,7 +9,7 @@ description = "A dependency-light, citation-aware RAG pipeline with offline eval
 readme = "README.md"
 requires-python = ">=3.11"
 license = { text = "MIT" }
-authors = [{ name = "Nuno" }]
+authors = [{ name = "Nuno Antunes" }]
 dependencies = []
 
 [project.optional-dependencies]
